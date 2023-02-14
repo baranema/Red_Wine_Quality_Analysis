@@ -28,13 +28,13 @@ This repository contains a Jupyter Notebook file named "235.ipynb" which analyze
 
 The notebook contains the following sections:
 
-# Introduction: Provides an overview of the dataset and the analysis goals.
-# Data Loading: Loads the dataset into a Pandas dataframe.
-# Data Exploration: Explores the dataset by analyzing the data distribution and correlations.
-# Data Preprocessing: Cleans the data by removing missing values and outliers, and scales the data using StandardScaler.
-# Model Training: Trains several machine learning models on the preprocessed data, including Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and Support Vector Regression.
-# Model Evaluation: Evaluates the performance of the trained models using various metrics, including mean squared error, mean absolute error, and R-squared score.
-# Conclusion: Summarizes the analysis results and suggests future directions.
+* Introduction: Provides an overview of the dataset and the analysis goals.
+* Data Loading: Loads the dataset into a Pandas dataframe.
+* Data Exploration: Explores the dataset by analyzing the data distribution and correlations.
+* Data Preprocessing: Cleans the data by removing missing values and outliers, and scales the data using StandardScaler.
+* Model Training: Trains several machine learning models on the preprocessed data, including Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and Support Vector Regression.
+* Model Evaluation: Evaluates the performance of the trained models using various metrics, including mean squared error, mean absolute error, and R-squared score.
+* Conclusion: Summarizes the analysis results and suggests future directions.
 
 ## Contributing
 
