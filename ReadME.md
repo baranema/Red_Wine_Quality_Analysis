@@ -17,8 +17,7 @@ This repository contains a Jupyter Notebook file named "235.ipynb" which analyze
 ## Installation
 
 * Clone the repository using git clone https://github.com/baranema/Red_Wine_Quality_Analysis.git.
-* Install the required libraries using pip install -r requirements.txt.
-
+ 
 ## Usage
 
 * Open the Jupyter Notebook file 235.ipynb.
